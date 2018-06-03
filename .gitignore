@@ -1,0 +1,7 @@
+node_modules
+dist
+data
+.cache
+
+# remove after dependancies have been locked down.
+package-lock.json
